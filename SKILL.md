@@ -253,8 +253,8 @@ Read `references/state-and-pitfalls.md` for the DEPLOY.md template.
 
 ## Stitch Documentation
 
-- Stitch SDK usage and installation documentation: `https://github.com/adrian-voss/stitch-sdk`
-- DESIGN.md documentation and examples: `https://github.com/adrian-voss/stitch-skills`
+- Stitch SDK usage and installation documentation: `https://github.com/google-labs-projects/stitch-sdk/blob/main/README.md`
+- DESIGN.md documentation and examples: `https://github.com/google-labs-projects/stitch-skills`
 
 ---
 
